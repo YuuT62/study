@@ -10,7 +10,7 @@
         <link rel="preconnect" href="https://fonts.bunny.net">
         <link href="https://fonts.bunny.net/css?family=figtree:400,500,600&display=swap" rel="stylesheet" />
 
-         <p>feature/conflict02で修正したよ</p>
+         <p>feature/conflict01で修正したよ</p>
     </head>
     <body>
         
